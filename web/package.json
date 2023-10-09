@@ -1,0 +1,30 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@jamescoyle/vue-icon": "^0.1.2",
+    "@mdi/js": "^7.2.96",
+    "@nuxtjs/auth-next": "^5.0.0-1667386184.dfbbb54",
+    "@nuxtjs/axios": "^5.13.6",
+    "@nuxtjs/i18n": "^7.3.1",
+    "@nuxtjs/proxy": "^2.1.0",
+    "core-js": "^3.25.3",
+    "nuxt": "^2.15.8",
+    "nuxt-i18n": "^6.28.1",
+    "vee-validate": "3.3.7",
+    "vue": "^2.7.10",
+    "vue-server-renderer": "^2.7.10",
+    "vue-template-compiler": "^2.7.10",
+    "vuetify": "^2.6.10"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.12.3"
+  }
+}
